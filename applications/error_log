@@ -1,0 +1,28 @@
+[30-Dec-2015 21:44:38 Asia/Singapore] PHP Parse error:  syntax error, unexpected '{' in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 27
+[30-Dec-2015 21:58:16 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 57
+[30-Dec-2015 21:59:17 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 57
+[30-Dec-2015 22:02:04 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 57
+[30-Dec-2015 22:04:13 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 57
+[30-Dec-2015 22:06:05 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 57
+[30-Dec-2015 22:08:28 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 57
+[30-Dec-2015 22:10:34 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 60
+[30-Dec-2015 22:11:08 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 60
+[30-Dec-2015 22:12:21 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 62
+[30-Dec-2015 22:14:21 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 61
+[30-Dec-2015 22:17:34 Asia/Singapore] PHP Fatal error:  Cannot use object of type stdClass as array in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 21
+[30-Dec-2015 22:18:05 Asia/Singapore] PHP Parse error:  syntax error, unexpected ':' in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 21
+[30-Dec-2015 22:18:19 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 61
+[30-Dec-2015 22:18:25 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 61
+[30-Dec-2015 22:20:37 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:20:40 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:22:11 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:22:38 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:23:23 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:25:51 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:27:45 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:28:41 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:31:14 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 58
+[30-Dec-2015 22:35:11 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 55
+[30-Dec-2015 22:37:01 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 55
+[30-Dec-2015 22:37:33 Asia/Singapore] PHP Warning:  mysql_query() expects parameter 2 to be resource, string given in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 55
+[31-Jan-2016 17:08:46 Asia/Singapore] PHP Parse error:  syntax error, unexpected '}' in /home/nimblyla/public_html/jjws/applications/newJobApplication.php on line 52

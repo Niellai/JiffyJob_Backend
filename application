@@ -1,0 +1,23 @@
+<?php
+
+include '../config.php';
+
+$username = $_GET["username"];
+
+$sql = "SELECT username FROM user WHERE username = '".$username."';";
+
+$result = mysql_query($sql, $con);
+if (!$result) {
+    die('Invalid query: ' . mysql_error());
+}
+
+$userexists = "does not exist";
+if (mysql_num_rows($result) >=1) {
+	$userexists = "exists"; 
+	
+}
+
+echo $userexists;
+	include '../close.php';
+
+?>

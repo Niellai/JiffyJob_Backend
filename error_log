@@ -1,0 +1,27 @@
+[28-May-2015 14:26:12 Asia/Singapore] PHP Warning:  mysql_connect(): Access denied for user 'nimblyla_jjadmin'@'cx1.oryon.net' (using password: YES) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 8
+[28-May-2015 14:27:06 Asia/Singapore] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/nimblyla/public_html/jiffyjobs_webservice/index.php:7) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 23
+[28-May-2015 14:27:06 Asia/Singapore] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nimblyla/public_html/jiffyjobs_webservice/index.php:7) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 23
+[28-May-2015 14:27:20 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nimblyla/public_html/jiffyjobs_webservice/insert.php:33) in /home/nimblyla/public_html/jiffyjobs_webservice/insert.php on line 45
+[28-May-2015 14:27:59 Asia/Singapore] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nimblyla/public_html/jiffyjobs_webservice/index.php:7) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 23
+[28-May-2015 14:30:48 Asia/Singapore] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/nimblyla/public_html/jiffyjobs_webservice/index.php:7) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 23
+[28-May-2015 14:31:17 Asia/Singapore] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nimblyla/public_html/jiffyjobs_webservice/insert.php:33) in /home/nimblyla/public_html/jiffyjobs_webservice/insert.php on line 45
+[28-May-2015 16:28:35 Asia/Singapore] PHP Warning:  mysql_connect(): Access denied for user 'nimblyla_jjadmin'@'cx1.oryon.net' (using password: YES) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 8
+[28-May-2015 16:28:41 Asia/Singapore] PHP Warning:  mysql_connect(): Access denied for user 'nimblyla_jjadmin'@'cx1.oryon.net' (using password: YES) in /home/nimblyla/public_html/jiffyjobs_webservice/config.php on line 8
+[11-Sep-2015 13:11:10 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jiffyjobs_webservice/index.php on line 13
+[11-Sep-2015 13:11:10 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jiffyjobs_webservice/index.php on line 39
+[29-Oct-2015 22:34:52 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[29-Oct-2015 22:34:52 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[29-Oct-2015 22:35:26 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[29-Oct-2015 22:35:26 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[24-Mar-2016 20:53:50 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[24-Mar-2016 20:53:50 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[24-Mar-2016 21:06:22 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[24-Mar-2016 21:06:22 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[27-Mar-2016 12:21:41 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[27-Mar-2016 12:21:41 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[17-Apr-2016 11:25:01 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[17-Apr-2016 11:25:01 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[17-Apr-2016 11:25:15 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[17-Apr-2016 11:25:15 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
+[17-Apr-2016 11:25:25 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 13
+[17-Apr-2016 11:25:25 Asia/Singapore] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/nimblyla/public_html/jjws/index.php on line 39
